@@ -1,5 +1,5 @@
 # ERC721-Somnia-TEST
-==========================
+
 How to Create ERC721 in Blockchain SOMNIA NETWORK :
 
 Step 1
@@ -24,11 +24,11 @@ C. Deploy
 
  CONGRATULATE YOU DONE CREATE ERC721
 
-====================================
+
            
  II II I     II     II    II II II
  II     I     II II II    II
  II     I        II       II II II
  II     I        II             II
  II II I         II       II II II
-====================================
+
