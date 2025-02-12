@@ -1,6 +1,6 @@
 # ERC721-Somnia-TEST
 
-How to Create ERC721 in Blockchain SOMNIA NETWORK :
+How to Create Smart Contract ERC721 in Blockchain SOMNIA NETWORK :
 
 Step 1
  Got to https://wizard.openzeppelin.com/#erc721
@@ -15,9 +15,7 @@ Step 1
 
  Step 4
  Deploy and Run 
-A. Select Web Wallet
-B. Switch to Somnia Devnet
-C. Deploy 
+ Select Web Wallet - Switch to Somnia Devnet - Deploy 
 
  Step 5
  See Transcaction in Somnia Scan 
